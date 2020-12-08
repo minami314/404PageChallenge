@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenge-404notfound.web.app">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 ![screenshot](./img/404NotFound.png)
 
 This is my first devChallenge.
-I made 404 Not Found Page and learn how to deploy.
+I made 404 Not Found Page and learn how to deploy by Firebase.
 
 ### Built With
 
@@ -56,6 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/minami314)
+- Twitter [@your-twitter](https://twitter.com/na11602520)
