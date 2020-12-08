@@ -30,13 +30,12 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](./img/404NotFound.png)
+![screenshot](./public/img/404NotFound.png)
 
 This is my first devChallenge.
 I made 404 Not Found Page and learn how to deploy by Firebase.
@@ -56,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/minami314)
-- Twitter [@your-twitter](https://twitter.com/na11602520)
+- GitHub [minami314](https://github.com/minami314)
+- Twitter [@na11602520](https://twitter.com/na11602520)
